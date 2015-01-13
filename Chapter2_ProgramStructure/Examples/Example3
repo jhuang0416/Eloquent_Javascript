@@ -1,0 +1,6 @@
+//Example showing you can reuse a variable instead of creating a new variable in a program.
+//Output: 105
+
+var luigisDebt = 140;
+luigisDebt = luigisDebt - 35;
+console.log(luigisDebt);

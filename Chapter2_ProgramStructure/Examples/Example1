@@ -1,0 +1,4 @@
+//Example of printing the value stored in a variable
+//Output = 100
+var ten = 10;
+console.log(ten * ten);

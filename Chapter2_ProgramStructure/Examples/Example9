@@ -1,0 +1,12 @@
+//A program that prints all even numbers from 0 to 12 using a loop.
+
+// 0
+// 2
+// ... etcetera
+
+var number = 0;
+while (number <= 12)
+{
+    console.log(number);
+    number = number + 2;
+}

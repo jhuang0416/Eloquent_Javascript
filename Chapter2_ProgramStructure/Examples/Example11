@@ -1,0 +1,9 @@
+//Example using a "for" loop
+
+/*Output: 0
+          2
+          ... etcetera
+ */
+
+for (var number= 0; number <= 12; number = number + 2)
+console.log(number);

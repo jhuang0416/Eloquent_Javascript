@@ -1,0 +1,8 @@
+//Example using console.log function
+//Output: the value of x is 30
+
+var x = 30;
+console.log("the value of x is", x);
+
+
+

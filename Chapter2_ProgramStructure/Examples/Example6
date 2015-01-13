@@ -1,0 +1,7 @@
+/*Example proving functions do not need to have side effect to be useful.When a function produces a value,
+it is said to return that value.
+
+Output: 4 */
+
+
+console.log(Math.max(2, 4));

@@ -1,0 +1,5 @@
+//Example showing you can define or declare multiple variables in a line.
+// Output: 3
+
+var one = 1, two = 2;
+console.log(one + two);

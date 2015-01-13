@@ -1,0 +1,8 @@
+//When a variable points at a value that does not mean it is tied to that value forever.
+
+var mood = "light";
+console.log(mood);
+//Output: light
+mood = "dark";
+console.log(mood);
+//Output: dark

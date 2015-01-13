@@ -1,0 +1,13 @@
+//Example using a shortcut for incrementing an iteration, such as number++, number+=2, etc.
+
+/* Output = 0
+            2
+            4
+            6
+            8
+            10
+            12
+*/
+
+for (var number = 0; number <= 12; number += 2)
+    console.log(number);
